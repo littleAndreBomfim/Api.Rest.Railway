@@ -49,6 +49,11 @@ Antes de começar, você precisa ter as seguintes ferramentas instaladas em seu 
 5. **Rodar a aplicação**
    no cmd digite:
      - ./gradlew bootRun
+
+6. **Acessar a Swagger UI**
+
+Com a aplicação rodando, você pode acessar a interface do Swagger UI no seguinte URL:
+  - http://localhost:8080/swagger-ui.html
   
 ##Contribuições
 Sinta-se à vontade para contribuir com melhorias, correções de bugs, ou novos recursos. Para isso, siga o fluxo abaixo:
